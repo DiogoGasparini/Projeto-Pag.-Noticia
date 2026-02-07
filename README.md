@@ -1,25 +1,35 @@
+<p align="center">
+  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+</p>
+
+<p align="center">
+Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/user-attachments/assets/a1f717ee-3d84-40f1-b943-b1824dc8c2ef">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
 </p>
+
+<br>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+</p>
+
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 
-## 💻 Projeto
+## Projeto
 
-Nesse projeto desenvolvi um portal de notícias para praticar o meu conhecimento com o Grid!.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Nesse projeto desenvolvi um portal de notícias para praticar o meu conhecimento com o Grid!
