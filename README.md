@@ -13,7 +13,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+  <img alt="License" src="https://github.com/user-attachments/assets/b03e9eef-0f95-4654-a764-fc93033c6779"/>
 </p>
 
 <br>
