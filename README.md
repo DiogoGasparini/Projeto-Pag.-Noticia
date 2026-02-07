@@ -10,12 +10,6 @@
   <img alt="Projeto" src="https://github.com/user-attachments/assets/a1f717ee-3d84-40f1-b943-b1824dc8c2ef">
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
