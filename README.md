@@ -1,6 +1,3 @@
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +7,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="<img width="1920" height="1080" alt="Portal de noticia" src="https://github.com/user-attachments/assets/a1f717ee-3d84-40f1-b943-b1824dc8c2ef">
+  <img alt="Projeto" src="https://github.com/user-attachments/assets/a1f717ee-3d84-40f1-b943-b1824dc8c2ef">
 </p>
 
 <br>
